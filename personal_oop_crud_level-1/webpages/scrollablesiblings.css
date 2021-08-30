@@ -1,0 +1,11 @@
+ .wrapper{
+   
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    width: 350px; 
+ }
+ .wrapper .selection{
+   width:300px;
+  /* border:1px solid #ccc */
+ }
